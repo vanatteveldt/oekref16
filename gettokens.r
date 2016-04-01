@@ -1,4 +1,11 @@
 library(amcatr)
 c = amcat.connect("http://preview.amcat.nl")
-tokens = amcat.gettokens(c, 1006, 25173, module = "morphosyntactic", page_size = 10, only_cached = T)
+tokens = amcat.gettokens(c, 1006, 25173, module = "morphosyntactic", page_size = 100, only_cached = T)
+tokens$id = as.character(tokens$term_id)
+tokens$parent = as.character(tokens$parent)
 save(tokens, file="data/tokens.rda")
+
+# let's plot one! :)
+library(rsyntax)
+g = rsyntax::graph_from_sentence(tokens, sentence = 1)
+plot(g)
