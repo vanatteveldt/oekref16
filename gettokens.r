@@ -1,10 +1,14 @@
 library(amcatr)
 c = amcat.connect("http://preview.amcat.nl")
+c = amcat.connect("http://localhost:8080")
 tokens = amcat.gettokens(c, 1006, 25173, module = "morphosyntactic", page_size = 100, only_cached = T)
 tokens$id = as.character(tokens$term_id)
 tokens$parent = as.character(tokens$parent)
-save(tokens, file="data/tokens.rda")
+saveRDS(tokens, file="data/tokens.rds")
 
+table(is.na(tokens$parent))
+
+table(tokens$aid[tokens$sentence ==1])
 # let's plot one! :)
 library(rsyntax)
 g = rsyntax::graph_from_sentence(tokens, sentence = 1)
