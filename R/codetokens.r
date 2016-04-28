@@ -31,14 +31,16 @@ cb$indicator[cb$code == 'negatief'] = gsub('*', '* ', cb$indicator[cb$code == 'n
 colnames(tokens)[colnames(tokens) == 'aid'] = 'doc_id'
 colnames(tokens)[colnames(tokens) == 'id'] = 'position'
 
+cb = cb[!cb$parent == 'predicaat',]
 queries = data.frame(code = cb$code, 
                      indicator=cb$indicator, 
                      condition=cb$condition)
 queries = queries[!queries$indicator == '',]
+queries = queries[!is.na(queries$indicator),]
 
 ## apparently codeTokens takes up too much memory with long queries and too many tokens, therefore iterate through batches
 doc_ids = unique(tokens$doc_id)
-batches = split(doc_ids, ceiling(seq_along(doc_ids)/10)) # batches of 10
+batches = split(doc_ids, ceiling(seq_along(doc_ids)/100)) # batches of 10
 
 for(i in 1:length(batches)){
   print(sprintf('%s / %s', i, length(batches)))
@@ -46,7 +48,13 @@ for(i in 1:length(batches)){
   tokens$concept[selection] = codeTokens(tokens[selection,], queries, text_var = 'word', verbose = F)
 }
 
+saveRDS(tokens, file='data/prepared_tokens_oekraine.rds')
+
 ## todo: think of more efficient way to deal with long lists of indicators.
 ## Currently indicators are also used in the query matrix, which is usefull for 'recycling' indicators across queries.
 ## However, its probably more efficient to just look up indicators as grep indicator1|indicator2|etc. 
 
+### try without sentiment
+#queries$code
+#squeries = queries[1:64,]
+#tokens$concept = codeTokens(tokens, squeries, text_var = 'word')
