@@ -1,0 +1,152 @@
+,o1,o2,o3,o4,o5,indicator,condition
+1,referendum,,,,,referendum,
+2,associatieverdrag,,,,,associatieverdrag associatieovereenkomst verdrag,europ+ACo- eu
+3,issues,,,,,xxxxxxxx,
+4,,handel,,,,handels+ACo- handel vrijhandel vrijhandels+ACo- export,
+5,,,markteconomie,,,markteconom+ACo- bedrijven bedrijf investe+ACo-,
+6,,lidmaatschapEU,,,,lidmaatschap+ACo- toetred+ACo-,europ+ACo- eu
+7,,,lidmaatschapEU2,,,lid deelgenoot,europ+ACoAfg-5 eu+AH4-5
+8,,schulden,,,,schulden debet lening+ACo- failliet faillissement overheidstekort+ACo- financieringstekort+ACo-,
+9,,democratieOek,,,,democrati+ACo-,
+10,,,oligarchieOek,,,oligarch+ACo- oliebaron+ACo-,
+11,,vrede,,,,vrede+ACo- harmonie samenwerking,europ+ACo- eu
+12,,stabiliteit,,,,stabiel+ACo- stabiliteit,europ+ACo- eu buitengrens buitengrenzen
+13,,,stabiliteitBuitengrenzen,,,buitengrens buitengrenzen,stabil+ACo- vrede rust
+14,,integratie,,,,integratie integre+ACo- geintegreerd,europ+ACo- eu
+15,,justitie,,,,justiti+ACo- rechtsstaat,
+16,,veiligheid,,,,veilig+ACo- veiligheid+ACo-,
+17,,mensenrechten,,,,mensenrechten,
+18,,,gelijkebehandeling,,,behandeling,gelijk+AH4-3
+19,,,,discriminatie,,discriminatie achterstelling,ras vrouw+ACo- homo+ACo- lesbi+ACo-
+20,,,,antisemitisme,,antisemit+ACo-,
+21,,vrijheid,,,,vrijheid+ACo- vrijheden,
+22,,,vrijheidMeningsuiting,,,vrijheid+ACo- vrijheden,meningsuiting+AH4-3
+23,,,vrijheidGodsdienst,,,vrijheid+ACo- vrijheden,godsdienst+AH4-3
+24,,,vrijeVerkiezingen,,,verkiezingen,vrij+AH4-3
+25,,werkgelegenheid,,,,werkgelegenheid,
+26,,,werkloosheid,,,werklo+ACo-,
+27,,corruptie,,,,corrupt+ACo- omkoping omkoopbaarheid omkoperij omkooppraktijken oneerlijkheid vriendjespolitiek,
+28,,belastinggeld,,,,belastinggeld belasting belastingbetaler,nederl+ACo-
+29,actoren,,,,,xxxxxxxx,
+30,,EU1,,,,EU ecb tusk barrosso juncker rompuy draghi ashton,europ+ACo- eu
+31,,,EU2,,,unie,europees europese
+32,,Nederland,,,,nederland+ACo- rutte,
+33,,,regering,,,regering+ACo- overheid premier nederland+ACo- rutte kabinet ministerraad president minister bewind+ACo- minister+ACo- onderminister premier staatshoofd parlement+ACo- volksvertegenw+ACo-,
+34,,jakamp,,,,voorkamp jakamp,verdrag associatieverdrag associatieovereenkomst
+35,,,Soros,,,soros,
+36,,,StemVoorNederland,,,xxxxxxxx,
+37,,,,livestro,,livestro,
+38,,,,hulten,,hulten,michel+AH4-3
+39,,,Retecool,,,retecool,
+40,,,proPartijen,,,xxxxxxxx,
+41,,,,D66,,d66 democraten66,
+42,,,,,Pechtold,pechtold,d66 alexander+AH4-2
+43,,,,,Verhoeven,verhoeven,d66 alexander+AH4-2
+44,,,,,miltenburg,miltenburg,d66 matthijs+AH4-3
+45,,,,,intveld,veld,sophie+AH4-4 d66
+46,,,,,gerbrandy,gerbrandy,gerben+AH4-3 d66
+47,,,,,schaake,schaake,marietje+AH4-2 d66
+48,,,,CDA,,cda,
+49,,,,,haersmabuma,haersma buma,cda sybrand+AH4-3
+50,,,,,schreierPierik,pierik,schreijer+AH4-2 annie+AH4-3 cda
+51,,,,,vanderCamp,camp,cda wim+AH4-4
+52,,,,,deLange,lange,cda esther+AH4-3
+53,,,,,lenaers,lenaers,cda jeroen+AH4-2
+54,,,,,nistelrooij,nistelrooij,cda lambert+AH4-3
+55,,,,,heerma,heerma,cda pieter+AH4-2
+56,,,,,omtzigt,omtzigt,cda pieter+AH4-2
+57,,,,,keijzer,keijzer,cda mona+AH4-2
+58,,,,,toorenburg,toorenburg,cda madeleine+AH4-3
+59,,,,,bruinsSlot,bruins,slot+AH4-2 hanke+AH4-2 cda
+60,,,,PvdA,,pvda,
+61,,,,,Samsom,samsom,pvda diederik+AH4-2
+62,,,,,Dijsselbloem,dijsselbloem,pvda voorzitter minister eurogroep jeroen+AH4-2
+63,,,,,VanHulten,hulten,pvda michiel+AH4-3
+64,,,,,Maij,maij,pvda marit+AH4-2
+65,,,,,Spekman,spekman,pvda hans+AH4-2
+66,,,,,Plasterk,plasterk,minister pvda ronald+AH4-2
+67,,,,,koenders,koenders,minister pvda bert+AH4-2
+68,,,,,timmermans,timmermans,pvda frans+AH4-2 eurocommissaris
+69,,,,,jongerius,jongerius,agnes+AH4-2
+70,,,,,piri,piri,kati+AH4-2
+71,,,,,tang,tang,paul+AH4-2
+72,,,,,asscher,asscher,lodewijk+AH4-2 pvda minister
+73,,,,,bussemaker,bussemaker,jet+AH4-2 pvda minister
+74,,,,,ploumen,ploumen,lilianne+AH4-2 pvda minister
+75,,,,VVD,,vvd,
+76,,,,,Rutte,rutte,vvd premier+AH4-2 president+AH4-3 mark+AH4-2
+77,,,,,Zijlstra,zijlstra,vvd halbe+AH4-2
+78,,,,,Huitema,huitema,vvd europ+ACo-
+79,,,,,baalen,baalen,vvd hans+AH4-3
+80,,,,,blok,blok,vvd stef+AH4-2
+81,,,,,hennisPlasschaert,hennis,plasschaert+AH4-2 jeanine+AH4-2 minister vvd
+82,,,,,dijkhoff,dijkhoff,klaas+AH4-2 staatssecretaris vvd
+83,,,,,schippers,schippers,edith+AH4-2 minister vvd
+84,,,,,schultz,schultz,haegen+AH4-3 melanie+AH4-2 minister vvd
+85,,,,GroenLinks,,groenlinks,
+86,,,,,Klaver,klaver,groenlinks jesse+AH4-2
+87,,,,,Eickhout,eickhout,groenlinks europ+ACo- bas+AH4-2
+88,,,,,Sargentini,sargentini,groenlinks judith+AH4-2
+89,,,,ChristenUnie,,cu christenunie,
+90,,,,,Seegers,seegers,gertjan+AH4-2 gert+AH4-3 christenunie
+91,,,,,Slob,slob,arie+AH4-2 christenunie
+92,,,,,Voordewind,voordewind,joel+AH4-2 christenunie
+93,,,,,Schouten,schouten,carola+AH4-2 christenunie
+94,,,,PvdD,,pvdd dieren,
+95,,,,,Thieme,thieme,pvdd dieren marianne+AH4-2
+96,,,,,Hazekamp,hazekamp,pvdd dieren anja+AH4-2
+97,,,,SGP,,sgp,
+98,,,,,Staaij,staaij,sgp staatkundig
+99,,,,,belder,belder,bas+AH4-2 europarl+ACoAfg-5
+100,,,,,dalen,dalen,peter+AH4-3 europarl+ACoAfg-5
+101,,,,VijftigPlus,,vijftigplus 50plus,
+102,,,,,Krol,krol,vijftigplus 50plus henk+AH4-2
+103,,neekamp,,,,tegenstander tegencampagne tegenkamp tegen+AC0-kamp nee+AC0-kamp nee+AC0-campagne,(oekra+ACo- associatieverdrag associatieovereenkomst)
+104,,,ForumVoorDemocratie,,,forum,democratie+AH4-3
+105,,,,baudet,,baudet,thierry+AH4-2 forum
+106,,,BurgercomiteEU,,,burgercomite,eu+AH4-3
+107,,,,houwelingen,,houwelingen,pepijn+AH4-3 burgercomite
+108,,,,dixhoorn,,dixhoorn,arjan+AH4-3 burgercomite
+109,,,GeenPeil,,,geenpeil geenstijl nijman,
+110,,,,nijman,,nijman,bart+AH4-2 geenstijl geenpeil
+111,,,,rossem,,rossem,geenstijl
+112,,,,weesie,,weesie,dominique+AH4-2 geenstijl
+113,,,UKIP,,,eurokritisch euro+AC0-kritisch nigel farage ukip ukip+AC0-leider,ukip
+114,,,conPartijen,,,xxxxxxxx,
+115,,,,SP,,sp socialistisch,
+116,,,,,Roemer,roemer,sp emiel+AH4-2
+117,,,,,Bommel,bommel,sp harry+AH4-3
+118,,,,,deJong,jong,dennis+AH4-3 sp+AH4-5
+119,,,,,mineur,mineur,marie+AH4-3
+120,,,,PVV,,pvv extreem+ACo- rechts,
+121,,,,,Wilders,wilders,pvv geert+AH4-2
+122,,,,,DeRoon,roon,pvv raymond+AH4-3
+123,,,,,Fritsma,fritsma,pvv sietse+AH4-2
+124,,,,,graaff,graaff,pvv marcel+AH4-3
+125,,,,,maeijer,maeijer,pvv vicky+AH4-2
+126,,,,,stuger,stuger,pvv olaf+AH4-2
+127,,,,,zijlstra,zijlstra,auke+AH4-2
+128,,neutraal,,,,campagne,xxxxxx
+129,,,ValdiCecina,,,cecina,val+AH4-3
+130,,,houwen,,,houwen,anne+AH4-3
+131,,,PiratenPartij,,,piratenpartij,
+132,,Rusland,,,,rusland sovjet poetin medvelev moskou gazprom russisch+ACo-,
+133,,Oekraine,,,,oekra+ACo- jatsenjoek poroshenko porosjenko tymosjenko timosjenko,
+134,,,janoekovitsj,,,janoekovitsj janoekovytsj,
+135,,EUlanden,,,,belgie bulgarije cypris denemarken duitsland estland finland frankrijk griekenland hongarije ierland itali+//0AkQ- kroatie letland litouwen luxemburg malta nederland oostenrijk polen portugal roemeni+//0AkQ-  slovenie slowakije spanje tsjechie engeland  zweden,
+136,,,europeesParlement,,,parlement,europees+AH4-2
+137,,,,europarlementarier,,europarlem+ACo-,
+138,,,europeseCommissie,,,commissie,europese+AH4-2
+139,,,moghereni,,,moghereni,federica+AH4-2 minister europ+ACo-
+140,,,Tusk,,,tusk,europ+ACo- eu donald+AH4-2
+141,,,Rompuy,,,rompuy,europ+ACo- eu herman+AH4-3
+142,,,Juncker,,,Juncker,europ+ACo- eu
+143,,,Duitsland,,,duitsland duits duitse,
+144,,,,Merkel,,merkel,duits+ACo- angela+AH4-2 bondskanselier
+145,,,,Westerwelle,,westerwelle,duits+ACo- guido+AH4-2 minister
+146,,,,Steinmeier,,steinmeier,duits+ACo- walter+AH4-2 minister
+147,ideaal,,,,,xxxxxxxx,
+148,,positief,,,,aangena+ACo- aantrekkelijk+ACo- aanzien+ACo- aardig+ACo- actief+ACo- adequa+ACo- allerbest+ACo- applaus+ACo- barmhartig+ACo- befaamd+ACo- begrijpelijk+ACo- begripvol+ACo- behulpzaam+ACo- bekwa+ACo- belastingvoordeel+ACo- beschaafd+ACo- bescheidenheid+ACo- best+ACo- beter+ACo- betrokken+ACo- betrouwba+ACo- betrouwbaarheid+ACo- bevlogen+ACo- bijzonder+ACo- blij+ACo- blijde+ACo- boeiend+ACo- briljant+ACo- charmant+ACo- collegia+ACo- comfortabel+ACo- competent+ACo- conscientieu+ACo- consensus+ACo- constructie+ACo- cool+ACo- correct+ACo- coulance+ACo- creatie+ACo- daadkrachtig+ACo- dankba+ACo- dapper+ACo- deskundig+ACo- deugdelijk+ACo- dierba+ACo- diplomatiek+ACo- doelmatig+ACo- doeltreffend+ACo- dolblij+ACo- eensgezind+ACo- eensgezindheid+ACo- eenvoudig+ACo- eerlijk+ACo- effectie+ACo- efficiency+ACo- efficiencywinst+ACo- efficient+ACo- eminent+ACo- enthousiasme+ACo- enthousiast+ACo- ervaren+ACo- esthetisch+ACo- evenwichtig+ACo- excellent+ACo- excelleren+ACo- fair+ACo- fantastisch+ACo- fatsoenlijk+ACo- favoriet+ACo- feestelijk+ACo- felbegeerd+ACo- fenomenaal+ACo- fijn+ACo- filantropisch+ACo- florissant+ACo- foutlo+ACo- fraai+ACo- fris+ACo- geacht+ACo- gedreven+ACo- geduldig+ACo- geliefd+ACo- gelijkheidsdenken+ACo- gelijkwaardig+ACo- geloofwaardig+ACo- gelukkig+ACo- gemakkelijk+ACo- gemoedelijk+ACo- gemotiveerd+ACo- genia+ACo- gerechtvaardigd+ACo- gerenommeerd+ACo- gerust+ACo- geschikt+ACo- getalenteerd+ACo- geweldig+ACo- gezaghebbend+ACo- gezellig+ACo- gezond+ACo- glansrijk+ACo- goed+ACo- goedwillend+ACo- goeie+ACo- goodwill+ACo- gul+ACo- gunstig+ACo- haalba+ACo- handig+ACo- hardwerkend+ACo- hartelijk+ACo- hemels+ACo- herkenba+ACo- hoffelijk+ACo- hoogbegaafd+ACo- hooggekwalificeerd+ACo- hooggewaardeerd+ACo- hoogwaardig+ACo- hoop+ACo- hoopvol+ACo- huma+ACo- idea+ACo- ijverig+ACo- indrukwekkend+ACo- ingenieu+ACo- innovatie+ACo- inspireren+ACo- intelligent+ACo- interessant+ACo- juist+ACo- kansrijk+ACo- keurig+ACo- knap+ACo- kunde+ACo- kwalitatief+ACo- kwaliteit+ACo- kwaliteitsverbetering+ACo- leergierig+ACo- leergierigheid+ACo- leerontwikkeling+ACo- lef+ACo- lekker+ACo- leuk+ACo- lief+ACo- lieve+ACo- liefste+ACo- liefde+ACo- liefdevol+ACo- lof+ACo- lofzang+ACo- lol+ACo- loya+ACo- lucratief+ACo- majestueu+ACo- makkelijk+ACo- meerwaarde+ACo- meevaller+ACo- moedig+ACo- moeiteloos+ACo- mooi+ACo- moreelmorele+ACo- nauwkeurig+ACo- netjes+ACo- nobel+ACo- nuttig+ACo- objectie+ACo- onpartijdig+ACo- ontplooiing+ACo- ontspannen+ACo- ontwikkeld+ACo- onverschrokken+ACo- opgelucht+ACo- opgewekt+ACo- optima+ACo- optimisme+ACo- optimistisch+ACo- overtuigend+ACo- overzichtelijk+ACo- perfect+ACo- plezier+ACo- plezierig+ACo- populair+ACo- populariteit+ACo- positief+ACo- positieve+ACo- prachtig+ACo- praktisch+ACo- prestigieu+ACo- prettig+ACo- prima+ACo- proactie+ACo- proba+ACo- probleemlo+ACo- professionaliteit+ACo- professione+ACo- profijt+ACo- profilering+ACo- prominent+ACo- proominent+ACo- rechtvaardigheid+ACo- rekenprestatie+ACo- relevant+ACo- representatie+ACo- respect+ACo- respectabel+ACo- respectvol+ACo- rijk+ACo- ruimhartig+ACo- rust+ACo- schitterend+ACo- schoon+ACo- schone+ACo- sfeervol+ACo- slagvaardig+ACo- slim+ACo- smakelijk+ACo- socia+ACo- soepel+ACo- solidair+ACo- solide+ACo- sportief+ACo- standvastig+ACo- +AHw-stijlvol+ACo- stimulans+ACo- strijdbaar+ACo- succesvol+ACo- sympathiek+ACo- talentontwikkeling+ACo- talentvol+ACo- tevreden+ACo- tevredenheid+ACo- toegankelijk+ACo- toegewijd+ACo- toereikend+ACo- tof+ACo- tolerant+ACo- toonbeeld+ACo- topfunctie+ACo- topinstituut+ACo- topleraar+ACo- topmens+ACo- topmusicus+ACo- topniveau+ACo- toponderzoek+ACo- topopleiding+ACo- topper+ACo- toppositie+ACo- topsector+ACo- toptalent+ACo- topuniversiteit+ACo- topvrouw+ACo- trots+ACo- trouw+ACo- uitblinker+ACo- uitstekend+ACo- vaardig+ACo- veelbelovend+ACo- veelzijdig+ACo- veilig+ACo- verantwoord+ACo- verantwoordelijk+ACo- verbeter+ACo- verbetering+ACo- verheugd+ACo- verstandig+ACo- vertrouw+ACo- vindingrijk+ACo- vlot+ACo- voldoende+ACo- vooraanstaand+ACo- voordeel+ACo- voordelig+ACo- voortreffelijk+ACo- voortvarend+ACo- vooruitgang+ACo- vooruitstrevend+ACo- vorstelijk+ACo- vrede+ACo- vreedzaam+ACo- vriendelijk+ACo- vrolijk+ACo- ware+ACo- waarachtig+ACo- waardering+ACo- waardig+ACo- waarheid+ACo- weldenkend+ACo- welgesteld+ACo- welkom+ACo- weloverwogen+ACo- welwillend+ACo- welwillendheid+ACo- welzijn+ACo- wereldfaam+ACo- wereldklasse+ACo- werkbaar+ACo- wijs+ACo- wijze+ACo- winstgevend+ACo- zalig+ACo- zelfstandig+ACo- zinvol+ACo- zorgvuldigheid+ACo- zorgza+ACo-,
+149,,negatief,,,,aanklager+ACo- aanvaring+ACo- absurd+ACo- achtelo+ACo- achterlijk+ACo- achteruitgang+ACo- aderlating+ACo- afkeer+ACo- afkerig+ACo- afkeuring+ACo- afschuwelijk+ACo- afwijzing+ACo- agressie+ACo- akelig+ACo- alarm+ACo- allerslechtst+ACo- angst+ACo- arbitrair+ACo- arm+ACo- armoeiig+ACo- armzalig+ACo- arrogantie+ACo- asociaal+ACo- bandeloos+ACo- bang+ACo- bars+ACo- bedenkelijk+ACo- bedreiging+ACo- bekaaid+ACo- bekrompen+ACo- belachelijk+ACo- bemoeizuchtig+ACo- benepen+ACo- beroerd+ACo- berucht+ACo- beschuldiging+ACo- besmet+ACo- bespottelijk+ACo- bestraffing+ACo- betreurenswaardig+ACo- beu+ACo- bevreesd+ACo- bezorgd+ACo- bits+ACo- bitter+ACo- boegeroep+ACo- boete+ACo- boos+ACo- boosdoener+ACo- boosheid+ACo- buikpijn+ACo- bureaucratisch+ACo- censuur+ACo- chaos+ACo- conflict+ACo- contraproductief+ACo- corrupt+ACo- corruptie+ACo- crimineel+ACo- crisis+ACo- cynisch+ACo- debacle+ACo- demagogie+ACo- demagogisch+ACo- depressie+ACo- depressie+ACo- desastreus+ACo- desinteresse+ACo- destructie+ACo- diefstal+ACo- diplomafraude+ACo- discriminatie+ACo- diskrediet+ACo- dodelijk+ACo- doello+ACo- dof+ACo- dom+ACo- dood+ACo- doodzonde+ACo- draconisch+ACo- dramatisch+ACo- dreigement+ACo- dreiging+ACo- drogreden+ACo- dubieus+ACo- dupe+ACo- duur+AHw-dure+ACo- dwaas+ACo- eenheidsworst+ACo- eenzaam+ACo- egoistisch+ACo- eng+ACo- exorbitant+ACo- extremistisch+ACo- failliet+ACo- faillissement+ACo- fataal+ACo- fiasco+ACo- fout+ACo- fraudeur+ACo- frustratie+ACo- funest+ACo- gebrek+ACo- gebrekkig+ACo- gecompliceerd+ACo- gedragsprobleem+ACo- gedupeerden+ACo- gek+ACo- geldgebrek+ACo- geldverslindend+ACo- gemeen+ACo- gemene+ACo- genant+ACo- gepolariseerd+ACo- gesjoemel+ACo- gestoord+ACo- gevaar+ACo- gevaarlijk+ACo- gevangenisstraf+ACo- gevarenzone+ACo- gevecht+ACo- gevreesd+ACo- geweld+ACo- geweldsincident+ACo- geweldsmisdrij+ACo- gitzwart+ACo- gotspe+ACo- grauw+ACo- grimmig+ACo- haat+ACo- hachelijk+ACo- hekel+ACo- hinderlij+ACo- hoofdpijndossier+ACo- hoofdschuddend+ACo- hoongelach+ACo- hopeloos+ACo- huiverig+ACo- hulpbehoevend+ACo- hypocriet+ACo- hysterisch+ACo- idioot+ACo- ijzingwekkend+ACo- illegaal+ACo- imbeciel+ACo- impopulair+ACo- improductief+ACo- inbreuk+ACo- incapabel+ACo- inconsequent+ACo- inconsistent+ACo- ineffectie+ACo- inflatie+ACo- ingewikkeld+ACo- inhoudsloos+ACo- irritant+ACo- irritatie+ACo- jaloezie+ACo- jammer+ACo- kaalslag+ACo- kansarm+ACo- kanslo+ACo- klacht+ACo- knettergek+ACo- knieschot+ACo- kortaf+ACo- kortzichtig+ACo- krachteloos+ACo- kredietcrisis+ACo- krimpgebied+ACo- krimpregio+ACo- kritiekpunt+ACo- kwaad+ACo- kwalijk+ACo- kwetsba+ACo- kwijt+ACo- laaggeletterdheid+ACo- laf+ACo- laks+ACo- lamlendig+ACo- langstudeerderboete+ACo- last+ACo- lastig+ACo- lawaai+ACo- leed+ACo- leegloop.+ACo- leerachterstand+ACo- leerprobleem+ACo- lerarentekort+ACo- +AHw-iefdeloos+ACo- lomp+ACo- lui+ACo- machtelo+ACo- machtsmisbruik+ACo- malafide+ACo- maniakaal+ACo- marginaal+ACo- miljoenenfraude+ACo- minachting+ACo- minzaam+ACo- mis+ACo- misbruik+ACo- misdadig+ACo- mishandeling+ACo- misstand+ACo- moedeloos+ACo- moeilijk+ACo- moeite+ACo- moeizaam+ACo- mokerslag+ACo- moord+ACo- naar+ACo- nachtmerrie+ACo- nadeel+ACo- nadelig+ACo- nalatig+ACo- nederlaag+ACo- negatie+ACo- nekschot+ACo- nepotisme+ACo- nietinteger+ACo- nood+ACo- noodgedwongen+ACo- nutteloos+ACo- obstakel+ACo- omslachtig+ACo- omstreden+ACo- onaangenaam+ACo- onaantrekkelijk+ACo- onaanvaardbaar+ACo- onacceptabel+ACo- onbegrijpelijk+ACo- onbegrip+ACo- onbehagen+ACo- onbehoorlijk+ACo- onbeschaafd+ACo- onbeschoft+ACo- onbespreekbaar+ACo- onbetaalbaar+ACo- onbetrouwbaar+ACo- ondergang+ACo- ondermaats+ACo- ondeugdelijk+ACo- ondoelmatig+ACo- onduidelijk+ACo- oneerlijk+ACo- onenigheid+ACo- onervaren+ACo- onevenredig+ACo- onfatsoenlijk+ACo- onfris+ACo- ongecontroleerd+ACo- ongegrond+ACo- ongelijk+ACo- ongelijkheid+ACo- ongeloofwaardig+ACo- ongelukkig+ACo- ongemakkelijk+ACo- ongemotiveerd+ACo- ongenoegen+ACo- ongenuanceerd+ACo- ongeoorloofd+ACo- ongeregeldhe+ACo- ongewenst+ACo- ongunstig+ACo- onheilspellend+ACo- onherstelbaar+ACo- onhoudbaar+ACo- onjuist+ACo- onmogelijk+ACo- onnodig+ACo- onrecht+ACo- onrechte+ACo- onrechtmatig+ACo- onrechtvaardig+ACo- onredelijk+ACo- onrust+ACo- onterecht+ACo- ontevreden+ACo- ontsteltenis+ACo- ontslag+ACo- ontzet+ACo- onveilig+ACo- onverantwoord+ACo- onverbiddelijk+ACo- onvergeeflijk+ACo- onverstandig+ACo- onvoldoende+ACo- onvrede+ACo- onvriendelijk+ACo- onwaarhe+ACo- onwelgevallig+ACo- onwelwillend+ACo- onwenselijk+ACo- onwerkbaar+ACo- onwetendheid+ACo- onwettig+ACo- onwil+ACo- onzalig+ACo- onzeker+ACo- onzekerheid+ACo- onzin+ACo- onzinnig+ACo- +AHw-onzorgvuldig+ACo- oorlog+ACo- ophokuur+ACo- opportunistisch+ACo- ordinair+ACo- overbodig+ACo- overdreven+ACo- overhaast+ACo- overmatig+ACo- overreding+ACo- overtreding+ACo- paniek+ACo- passief+ACo- passieve+ACo- pech+ACo- perikel+ACo- perspectieflo+ACo- pervers+ACo- pessimistisch+ACo- pijn+ACo- pijnlijk+ACo- populistisch+ACo- probleem+ACo- probleemgeval+ACo- probleemgroep+ACo- probleemleerling+ACo- problematiek+ACo- problematisch+ACo- profiteurscultuur+ACo- puinhoop+ACo- raar+ACo- raddraaier+ACo- ramp+ACo- rampzalig+ACo- rancune+ACo- rancuneu+ACo- recalcitrant+ACo- reputatieschade+ACo- respectloos+ACo- ridicuul+ACo- riskant+ACo- rot+ACo- ruzie+ACo- saai+ACo- scepsis+ACo- sceptisch+ACo- schaamtelo+ACo- schade+ACo- schadelijk+ACo- schandaal+ACo- schandalig+ACo- schande+ACo- schandelijk+ACo- schietpartij+ACo- schimmig+ACo- schoffering+ACo- schokkend+ACo- schra+ACo- schrijnend+ACo- schrikbarend+ACo- schril+ACo- schuld+ACo- schuldgevoel+ACo- schuldig+ACo- seksisme+ACo- slachtoffer+ACo- slecht+ACo- slonzig+ACo- slordig+ACo- sluw+ACo- smaakloos+ACo- sneu+ACo- soft+ACo- somber+ACo- spijt+ACo- spijtig+ACo- spuugzat+ACo- staatsgevaarlijk+ACo- staatsschuld+ACo- stagnatie+ACo- star+ACo- stiekem+ACo- +AHw-stom+ACo- stomvervelend+ACo- stout+ACo- straf+ACo- strafba+ACo- streng+ACo- strijd+ACo- studiedieven+ACo- studieschuld+ACo- studie+AC0-uitval+ACo- stug+ACo- subversief+ACo- taalachterstand+ACo- tegenstand+ACo- tegenvaller+ACo- tekort+ACo- teleurstellen+ACo- teleurstellend+ACo- teloorgang+ACo- tenenkrommen+ACo- terreur+ACo- terroristisch+ACo- tevergeefs+ACo- tragisch+ACo- treurig+ACo- triest+ACo- tweederangs+ACo- uitholling+ACo- uitval+ACo- uitzichtloos+ACo- vals+ACo- verbolgen+ACo- verdacht+ACo- verdeeldheid+ACo- verdrietig+ACo- verfoeilijk+ACo- vergeefs+ACo- verkeerd+ACo- verlies+ACo- vernietiging+ACo- verongelijkt+ACo- verontrustend+ACo- verontwaardigd+ACo- verontwaardiging+ACo- verschraling+ACo- verschrikkelijk+ACo- verslaafd+ACo- versobering+ACo- verstoord+ACo- verval+ACo- vervelend+ACo- verwerpelijk+ACo- verwijt+ACo- verzet+ACo- vies+ACo- vijand+ACo- vijandig+ACo- vijandigheid+ACo- visieloos+ACo- vleugellam+ACo- vogelvrij+ACo- vooroordee.+ACo- vreemd+ACo- vrees+ACo- vreesd+ACo- gevreesd+ACo- vreselijk+ACo- vriendjespolitiek+ACo- vruchteloos+ACo- vuil+ACo- waardeloos+ACo- walgelijk+ACo- wangedrag+ACo- wantrouwen+ACo- wantrouwend+ACo- wantrouwig+ACo- wars+ACo- weerstand+ACo- weerzin+ACo- weerzinwekkend+ACo- weifelachtig+ACo- weigerachtig+ACo- weigering+ACo- werklo+ACo- willekeur+ACo- woede+ACo- wrang+ACo- ziek+ACo- zielig+ACo- zieltogend+ACo- zinlo+ACo- zonde+ACo- zondig+ACo- zondige+ACo- zorgelijk+ACo- zorgwekkend+ACo- zot+ACo- zwak+ACo- zwakte+ACo-,
+150,,hoop,,,,hoop+ACo- hope gehoopt uitzien uitgezien vooruitzien+ACo- vooruitzicht+ACo- vooruitblik blikte vertrouw+ACo- geestdrift+ACo- belofte beloof+ACo- inspiratie inspireer+ACo- ontplooi+ACo- passie gepassioneerd geinspireerd opgelucht toekomstvisie toekomstgericht+ACo- toekomstbestendig+ACo- houvast toevlucht toeverlaat perspectief redd+ACo- gered),
+151,,vrees,,,,vrees+ACo- vreze+ACo- gevreesd+ACo- schrik+ACo- schrok+ACo- geschrokken paniek angst+ACo- doodsangst+ACo- bang+ACo- doodsbang+ACo- nood noodlot+ACo- radeloos+ACo- beducht+ACo- bezorgd+ACo- benard+ACo- benauwd+ACo- beklem+ACo- ingeklem+ACo- verwar+ACo- overbelast+ACo- beroering beroerd+ACo- commotie ongerust+ACo- onrust+ACo- verontrust+ACo- stress+ACo- nerveus+ACo- nervositeit spanning+ACo- gespannen+ACo- kommer kwel,
